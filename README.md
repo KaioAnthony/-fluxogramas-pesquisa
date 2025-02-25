@@ -32,4 +32,13 @@ Como mostrado acima uma imagem de um fluxograma, podemos ver os simbolos mais ut
 
 ## 
 
+#### __Como os fluxogramas são utilizados no desenvolvimento de sistemas?__
+
+Na área de desenvolvimento de sistemas, fluxogramas podem ajudar muito no planejamento dos programadores ao simplificar e organizar a ideia de como um sistema deve agir. A razão são os símbolos, que ajudam a definir como a programação deve seguir para que o programador entenda de forma clara.
+
+## 
+
 #### 
+
+
+
