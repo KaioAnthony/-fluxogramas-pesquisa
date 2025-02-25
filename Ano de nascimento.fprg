@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.6">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Aluno"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-02-25 04:54:48 "/>
+        <attribute name="created" value="QWx1bm87IERTTjkxNC1NSUNSTzIxLTsgMjAyNS0wMi0yNTsgMDQ6NDU6MjcgOyAyNjg4"/>
+        <attribute name="edited" value="QWx1bm87IERTTjkxNC1NSUNSTzIxLTsgMjAyNS0wMi0yNTsgMDQ6NTQ6NDggOyAyNjkx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="anonascimento" type="Integer" array="False" size=""/>
+            <output expression="&quot;Em que ano voc&#234; nasceu?&quot;"/>
+            <input variable="anonascimento"/>
+            <declare name="anoatual" type="Integer" array="False" size=""/>
+            <output expression="&quot;Em que ano est&#225; agora?&quot;"/>
+            <input variable="anoatual"/>
+            <declare name="idade" type="Integer" array="False" size=""/>
+            <assign variable="idade" expression="anoatual - anonascimento"/>
+            <output expression="&quot;Voc&#234; tem &quot; &amp; idade &amp; &quot; anos!&quot;"/>
+        </body>
+    </function>
+</flowgorithm>
