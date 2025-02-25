@@ -38,7 +38,16 @@ Na área de desenvolvimento de sistemas, fluxogramas podem ajudar muito no plane
 
 ## 
 
-#### 
+#### __Exemplos de fluxogramas aplicados à lógica de programação__
 
+Exemplo 1:
 
+![](https://scontent-gru1-2.xx.fbcdn.net/v/t1.15752-9/480051622_4094595450769614_5368161474302712516_n.png?stp=dst-png_p480x480&_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_ohc=vgrSpUpXlccQ7kNvgGXQ4Ka&_nc_oc=AdjaGLiJd45UVbhBsWTCo03RX9qIjg-WJslhtHwVVWBOdb2N6POmTILhc87tZH2Tp_c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&oh=03_Q7cD1gEdBaQFKSpw91qUrkJsO3-bF9B_xWN5226CVEUy2EE6ew&oe=67E579F4)
 
+## 
+
+Exemplo 2:
+
+![](https://scontent-gru2-1.xx.fbcdn.net/v/t1.15752-9/482144584_1669582207242687_9070944990482422056_n.png?stp=dst-png_s720x720&_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=QNonY2Na1AoQ7kNvgFZsVa-&_nc_oc=AdiQgEh4_VC9Ku4MgOtS8pToDIK5ZBG0uLOgjrTXP1GTGjrvQnDKbJl6D-n3PQBxkww&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-gru2-1.xx&oh=03_Q7cD1gHtwOED4Z97OUKzpqII-w2bsffAANwvlcqXXP0j6tBrhw&oe=67E5614B)
+
+## 
