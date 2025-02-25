@@ -71,3 +71,14 @@ Aqui estão alguns exemplos de ferramentas uteis que podem ser usadas para criar
 
 ## 
 
+- Flowgorithm: Uma ferramenta gratuita que permite criar fluxogramas visuais para aprender e entender lógica de programação de maneira intuitiva.
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzk056rHBJD1heW67fyVwvOy9TGbmhuwQUAq5w4uzQYDvUM9d5WcIcTErEwgtwRmeHTAE&usqp=CAU)
+
+## 
+
+#### __Conclusão sobre a importância dos fluxogramas no processo de desenvolvimento__
+
+Os fluxosgramas possuem um papel importante na area de desenvolvimento, pois ajuda a fazer uma represetanção clara e organizada de processos e sistemas. Facilitando também a comunicação entre equipes, indentificar problemas de lógica, contribuem para um planejamento e ajuda na redução de erros e aumenta a produtividade. Em resumo, fluxogramas são ferramentas essenciais que tornam o desenvolvimento de sistemas mais eficaz e compreensível.
+
+## 
