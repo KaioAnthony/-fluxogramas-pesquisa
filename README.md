@@ -19,16 +19,7 @@ Exemplo de fluxograma:
 
 Como mostrado acima uma imagem de um fluxograma, podemos ver os simbolos mais utilizados nos fluxogramas:
 
-```markdown
-- Círculo/Oval: Indica o início ou o fim do processo.
-
-- Retângulo: Representa uma atividade ou tarefa específica.
-
-- Losango: Denota um ponto de decisão que resulta em diferentes caminhos.
-
-- Seta: Mostra a direção do fluxo de trabalho ou a sequência de etapas.
-
-```
+![](https://blogdaqualidade.com.br/wp-content/uploads/2012/06/imagem-meire-Fluxograma.jpg)
 
 ## 
 
@@ -51,3 +42,32 @@ Exemplo 2:
 ![](https://scontent-gru2-1.xx.fbcdn.net/v/t1.15752-9/482144584_1669582207242687_9070944990482422056_n.png?stp=dst-png_s720x720&_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=QNonY2Na1AoQ7kNvgFZsVa-&_nc_oc=AdiQgEh4_VC9Ku4MgOtS8pToDIK5ZBG0uLOgjrTXP1GTGjrvQnDKbJl6D-n3PQBxkww&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-gru2-1.xx&oh=03_Q7cD1gHtwOED4Z97OUKzpqII-w2bsffAANwvlcqXXP0j6tBrhw&oe=67E5614B)
 
 ## 
+
+#### __Ferramentas que podem ser utilizadas para criar fluxogramas__
+
+Aqui estão alguns exemplos de ferramentas uteis que podem ser usadas para criar um fluxograma:
+
+- Microsoft Visio: Uma ferramenta poderosa para criar fluxogramas e outros diagramas.
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLpGK8Ezvaz0O6l0txGHnCWw1hYqNa4Sr0Nw&s)
+
+## 
+
+- Lucidchart: Uma ferramenta online que permite criar fluxogramas de forma colaborativa.
+
+![](https://mma.prnewswire.com/media/688080/lucidchart_logo_Logo.jpg?p=twitter)
+
+## 
+
+- Draw.io: Uma ferramenta gratuita que pode ser usada para criar fluxogramas de maneira simples.
+
+![](https://store-images.s-microsoft.com/image/apps.1409.13851527096222888.2b60149a-04a5-4578-a6b2-d7b7377332d5.c22d8e97-4d44-4304-9bd2-55f9d29c0f82?h=210)
+
+## 
+
+- Google Drawings: Parte do Google Workspace, permite criar fluxogramas usando o Google Drive.
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUexonZ8Tl4kVyRYV-7d0JNNUENfgxoR0ktg&s)
+
+## 
+
